@@ -12,6 +12,22 @@ header {
     color: #fce5cd;
 }
 
+#home {
+    background: url("../images/hero-image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.navigation {
+    text-align: left;
+}
+
+.hero-title {
+    text-align: right;
+}
+
 /*------------------ footer ------------------------*/
 footer {
     color: #fce5cd;
